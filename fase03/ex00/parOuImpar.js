@@ -5,7 +5,8 @@ if (num % 2 == 0) {
     
 }
 else {
-return("impar")
+    
+    return("impar")
 
 }
 }
